@@ -1,8 +1,10 @@
-Image Pixelation Toggle - Google Chrome Extension
-Copyright (C) 2016 by B.J. Guillot.  All Rights Reserved.
+# chrome-unpixelate
 
-Version 0.0
-4/21/2016
+Image Pixelation Toggle - Google Chrome Extension
+
+  Copyright (C) 2016 by B.J. Guillot.  All Rights Reserved.
+  Version 0.0
+  4/21/2016
 
 This extension, when activated, allows the user to toggle image pixelation on and off.
 
@@ -19,10 +21,10 @@ To use the extension, click on the blue (C) copyright symbol on the top-right of
 ------
 
 To install:
-1. In your Chrome browser, in the URL bar, type in: chrome://extensions/
-2. Then, make sure the "Developer mode" checkbox is selected.
-3. Click the "Load unpacked extension..." button.
-4. Navigate and select the directory that has this and its related files.
+  1. In your Chrome browser, in the URL bar, type in: chrome://extensions/
+  2. Then, make sure the "Developer mode" checkbox is selected.
+  3. Click the "Load unpacked extension..." button.
+  4. Navigate and select the directory that has this and its related files.
 
 ------
 
