@@ -2,14 +2,16 @@
 
 Image Pixelation Toggle - Google Chrome Extension
 
+```
   Copyright (C) 2016 by B.J. Guillot.  All Rights Reserved.
   Version 0.0
   4/21/2016
+```
 
 This extension, when activated, allows the user to toggle image pixelation on and off.
 
 As an example, I often use the Javascript-based Texas Instruments 99/4A emulator:
-	http://js99er.net
+  http://js99er.net
 
 On my screen, the emulation image appears to be undergoing antialiasing, and looks
 fuzzy and blurry.
